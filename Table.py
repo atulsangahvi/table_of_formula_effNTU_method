@@ -1,5 +1,5 @@
 import pandas as pd
-from caas_jupyter_tools import display_dataframe_to_user
+# from caas_jupyter_tools import display_dataframe_to_user
 
 # Create a table of effectiveness-NTU formulas for different configurations
 data = [
